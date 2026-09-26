@@ -4,6 +4,7 @@ A simple web app for keeping track of movies you want to watch. Sign up, add mov
 
 
 **Live app:** https://movie-watchlistey.netlify.app/
+**Demo video:** https://youtu.be/7J2IEr6FrQE
 
 ## What it does
 
